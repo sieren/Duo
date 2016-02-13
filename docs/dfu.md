@@ -46,9 +46,10 @@
 
 ## Linux
 
-* Download the [dfu-util](http://dfu-util.sourceforge.net/releases/dfu-util-0.8-binaries/linux-i386/).
+* Download the [dfu-util](http://dfu-util.sourceforge.net/releases/dfu-util-0.8-binaries/linux-i386/) or use
+  the package managet to get the latest version (e.g. `sudo apt-get install dfu-util`).
 	
-* Suggest you to put the dfu-util.exe to your downloaded Duo firmware folder.
+* If you download dfu-util we suggest putting the binary into the Duo firmware folder.
 
 
 ## Check Version
